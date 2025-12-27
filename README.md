@@ -22,4 +22,4 @@ User experience
 ## OUTPUT
 
 ## RESULT
-in a specific task: text summarization is executed successfully.
+To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms in a specific task: text summarization is executed successfully.
