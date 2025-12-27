@@ -22,3 +22,4 @@ User experience
 ## OUTPUT
 
 ## RESULT
+in a specific task: text summarization is executed successfully.
