@@ -1,5 +1,5 @@
-# Date: 19/11/2025
-# EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
+## Date: 19/11/2025
+## EX-02-Cross-Platform-Prompting-Evaluating-Diverse-Techniques-in-AI-Powered-Text-Summarization
 
 ## AIM
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms (e.g., ChatGPT, Gemini, Claude, Copilot) in a specific task: text summarization.
@@ -20,6 +20,8 @@ Speed
 User experience
 
 ## OUTPUT
+
+[expt2 prmpt.pdf](https://github.com/user-attachments/files/24358981/expt2.prmpt.pdf)
 
 ## RESULT
 To evaluate and compare the effectiveness of prompting techniques (zero-shot, few-shot, chain-of-thought, role-based) across different AI platforms in a specific task: text summarization is executed successfully.
